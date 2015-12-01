@@ -1,7 +1,7 @@
 A partir del código HTML , añadir los estilos necesario para obtener el resultado mostrado más abajo. El archivo html y el archivo css deben meterse en una carpeta que se llame Ej1.
 
 El resultado final debe ser lo más parecido posible a la siguiente imagen:
-![imagen1](/practica1.gif)
+![imagen1](https://github.com/LexAenima/LenguajeDeMarcas/blob/master/Jurado_Gil_Francisco%20Luis_LM_U3_T2_CSS_II/practica1.gif "Practica1")
 
 Ejercicio 2:
 
@@ -9,13 +9,13 @@ A partir del código HTML , añadir los estilos necesario para obtener el result
 
 El resultado final debe ser lo más parecido posible a la siguiente imagen:
 
-![imagen2](/practica2.gif)
+![imagen2](https://github.com/LexAenima/LenguajeDeMarcas/blob/master/Jurado_Gil_Francisco%20Luis_LM_U3_T2_CSS_II/practica2.gif "Practica2")
 
 Ejercicio 3:
 
 A partir del código [HTML y CSS proporcionados](http://moodle.asiestriana.es/pluginfile.php/621/mod_assignment/intro/ejercicio3.zip), determinar las reglas CSS necesarias para añadir los siguientes márgenes y rellenos. Originalmente el documento es como se ve en la primera imagen:
 
-![imagen3](/practica3.gif)
+![imagen3](https://github.com/LexAenima/LenguajeDeMarcas/blob/master/Jurado_Gil_Francisco%20Luis_LM_U3_T2_CSS_II/practica3.gif "Practica3")
 
 Deben aplicarse las siguientes reglas CSS:
 
@@ -29,4 +29,4 @@ Deben aplicarse las siguientes reglas CSS:
 
 El resultado final deberá ser algo así:
 
-![imagen4](/practica3-solucion.gif)
+![imagen4](https://github.com/LexAenima/LenguajeDeMarcas/blob/master/Jurado_Gil_Francisco%20Luis_LM_U3_T2_CSS_II/practica3-solucion.gif "Practica3sol")
