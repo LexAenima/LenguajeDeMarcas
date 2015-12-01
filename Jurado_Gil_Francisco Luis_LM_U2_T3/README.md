@@ -65,17 +65,3 @@ Un campo de selección múltiple (checkbox) que permita al usuario indicar si de
 Una caja de texto donde se puedan dejar comentarios.
 
 Un botón para limpiar el formulario y otro para enviarlo por correo a la dirección: reservas@mihotel.com.
-
-Maquetar el formulario según utilizando la tabla siguiente:
-
-MI HOTEL reserva on line
-
-Nombre: | Elemento_Nombre
-Apellidos: | Elemento_Apellidos
-Teléfono: | Elemento_Teléfono
-E-mail: | Elemento_E-mail
-Número de noches | Elemento_Noches
-Fecha de entrada: | Elemento_dia Elemento_mes
-radio_button | Checkbox
-Comentarios | --------
-Botón de limpiar | Botón de enviar
