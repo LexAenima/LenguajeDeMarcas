@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE vuelos>
+
+<vuelos>
+	<vuelo>
+		<compania>
+			Iberia
+		</compania>
+		<numero>
+			9741
+		</numero>
+		<origen>
+			Sevilla
+		</origen>
+		<destino>
+			Barcelona
+		</destino>
+		<ruta>
+			Sin escalas
+		</ruta>
+		<horasalida>
+			15:00
+		</horasalida>
+		<horallegada>
+			16:23
+		</horallegada>
+	</vuelo>
+	<vuelo>
+		<compania>
+			Ryanair
+		</compania>
+		<numero>
+			8742
+		</numero>
+		<origen>
+			Amsterdam
+		</origen>
+		<destino>
+			Mallorca
+		</destino>
+		<ruta>
+			Sin escalas
+		</ruta>
+		<horasalida>
+			11:54
+		</horasalida>
+		<horallegada>
+			14:22
+		</horallegada>
+	</vuelo>
+	<vuelo>
+		<compania>
+			Vueling
+		</compania>
+		<numero>
+			5411
+		</numero>
+		<origen>
+			Valencia
+		</origen>
+		<destino>
+			París
+		</destino>
+		<ruta>
+			Sin escalas
+		</ruta>
+		<horasalida>
+			16:50
+		</horasalida>
+		<horallegada>
+			18:16
+		</horallegada>
+	</vuelo>
+	<vuelo>
+		<compania>
+			Berlin Airlines
+		</compania>
+		<numero>
+			6419
+		</numero>
+		<origen>
+			Berlín
+		</origen>
+		<destino>
+			Madrid
+		</destino>
+		<ruta>
+			Sin escalas
+		</ruta>
+		<horasalida>
+			00:56
+		</horasalida>
+		<horallegada>
+			3:14
+		</horallegada>
+	</vuelo>
+	<vuelo>
+		<compania>
+			British Airlines
+		</compania>
+		<numero>
+			3257
+		</numero>
+		<origen>
+			Londres
+		</origen>
+		<destino>
+			Sebastopol
+		</destino>
+		<ruta>
+			Sin escalas
+		</ruta>
+		<horasalida>
+			14:23
+		</horasalida>
+		<horallegada>
+			15:48
+		</horallegada>
+	</vuelo>
+</vuelos>

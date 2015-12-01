@@ -1,0 +1,1298 @@
+<listado_oficinas xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+<oficina>
+<ows_LinkTitle>Centro de Visitantes Cruz del Carmen</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.531297762237123, -16.28023624420166)</ows_Georeferencia>
+<ows_CodigoPostal>38294</ows_CodigoPostal>
+<ows_Direccion>Ctra. Las Mercedes, km.6</ows_Direccion>
+<ows_Telefono>922 63 35 76</ows_Telefono>
+<ows_Fax/>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2013-09-18 12:49:29</ows_FechaActualizacion>
+<ows_Horarios>Lun.- Dom.: 9:30 - 16:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>cvisitantes@cabtfe.es</ows_Email>
+<ows_Municipio>San Cristóbal de la Laguna</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arico</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.1666549, -16.501374800000008)</ows_Georeferencia>
+<ows_CodigoPostal>38580</ows_CodigoPostal>
+<ows_Direccion>C/ Benítez de Lugo, 1</ows_Direccion>
+<ows_Telefono>922 16 11 33</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.ayuntamientodearico.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-02-27 12:25:50</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 09:00 - 14:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@ayuntamientodearico.com</ows_Email>
+<ows_Municipio>Arico</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Candelaria</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.3574725, -16.36918289999994)</ows_Georeferencia>
+<ows_CodigoPostal>38530</ows_CodigoPostal>
+<ows_Direccion>Avda. de la Constitución, s/n, Candelaria</ows_Direccion>
+<ows_Telefono>922 03 22 30</ows_Telefono>
+<ows_Fax>922 50 08 08</ows_Fax>
+<ows_Web>http://www.turismocandelaria.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 12:02:57</ows_FechaActualizacion>
+<ows_Horarios>De lunes a sábado 9:00 a 14:00 y de 15:00 a 17:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>oit@candelaria.es</ows_Email>
+<ows_Municipio>Candelaria</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Adeje - Playa de Fañabé</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.08609883027464, -16.736991084180772)</ows_Georeferencia>
+<ows_CodigoPostal>38660</ows_CodigoPostal>
+<ows_Direccion>Avda. Litoral, s/n. Playa de Fañabé</ows_Direccion>
+<ows_Telefono>922 71 65 39</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.costa-adeje.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-04-01 10:02:21</ows_FechaActualizacion>
+<ows_Horarios>
+Lunes-Viernes: 10:00h a 17:00h. Julio y agosto una hora menos.
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@adeje.es</ows_Email>
+<ows_Municipio>Adeje</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Si ha llegado al aeropuerto de Los Rodeos, que se encuentra ubicado en la parte noreste de Tenerife, cerca de la ciudad de La Laguna (Patrimonio Histórico de la Humanidad) debe usted saber qué en coche y/o taxi tardará una hora en llegar a Costa Adeje. Si elige el transporte público, tardará aproximadamente dos horas en llegar. Si se encontrase en el aeropuerto Reina Sofía, ubicado en la zona sur de Tenerife, está a tan sólo 20 minutos en coche y/o taxi de Costa Adeje. Si tomase la guagua (transporte público) tardará unos 40 minutos aproximadamente. La Oficina de Turismo de Fañabé se encuentra en la Avenida Litoral, s/n, en el término municipal de Adeje y directamente al comienzo de la conocida Playa de Fañabé.
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+If you arrive at the airport of Los Rodeos which is located in the northeast side of Tenerife, near by the Unesco's World Heritage City of La Laguna, you only are one hour by car or taxi from Costa Adeje away. If you choose the local bus service, it will take you around two hours. If you are at the airport Reina Sofia which is located in the South of Tenerife you are only 20 minutes away by car or taxi from Costa Adeje. With the bus it will take you around 40 minutes. The Tourist Information Office of Fañabé, it is located at Avenida Litoral, s/n, in Adeje, at the famous beach Playa de Fañabé.
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman>
+Von dem Flughafen Los Rodeos, im Norden Teneriffa´s, brauchen Sie mit Auto oder Taxi ungefähr eine Stunde bis Sie in Costa Adeje ankommen. Mit dem öffentlichen Bus sind Sie ungefähr zwei Stunden unterwegs Vom Südflughafen, Reina Sofía, sind Sie mit Auto oder Taxi, 20 Minuten bis Costa Adeje unterwegs. Mit dem Bus, wären 40 Minuten nötig. Das Fremdenverkehrsbüro von Fañabé befindet sich in Avenida Litoral, s/n. Costa Adeje. Bei den bekannten Strand Playa de Fañabé.
+</ows_ComoLlegarAleman>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Garachico</ows_LinkTitle>
+<ows_Zona>Isla Baja</ows_Zona>
+<ows_Georeferencia>(28.373011654612746, -16.765332520008087)</ows_Georeferencia>
+<ows_CodigoPostal>38450</ows_CodigoPostal>
+<ows_Direccion>
+Avda Republica de Venezuela (explanada del antiguo muelle)
+</ows_Direccion>
+<ows_Telefono>922 13 34 61</ows_Telefono>
+<ows_Fax>922 13 34 61</ows_Fax>
+<ows_Web>http://www.garachico.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 12:06:52</ows_FechaActualizacion>
+<ows_Horarios>De lunes a sábado 10.00 - 15.00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>citgara@hotmail.com</ows_Email>
+<ows_Municipio>Garachico</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Güímar (C.I.T)</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia/>
+<ows_CodigoPostal>38500</ows_CodigoPostal>
+<ows_Direccion>Avda. Obispo Pérez Cáceres, 18</ows_Direccion>
+<ows_Telefono>922 51 15 90</ows_Telefono>
+<ows_Fax>922 51 35 69</ows_Fax>
+<ows_Web>http://www.citguimar.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-10-15 11:49:04</ows_FechaActualizacion>
+<ows_Horarios>
+Invierno Lun.-Vie. : 09:00 - 15:00 -- Verano Lun.-Vie. : 08:00 - 14:00
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>0</ows_Activo>
+<ows_Email>citguimar@hotmail.com</ows_Email>
+<ows_Municipio>Güímar</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>La Orotava</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.3916415, -16.522502300000042)</ows_Georeferencia>
+<ows_CodigoPostal>38300</ows_CodigoPostal>
+<ows_Direccion>C/ Calvario, 4</ows_Direccion>
+<ows_Telefono>922 32 30 41</ows_Telefono>
+<ows_Fax>922 32 43 67</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-02-27 12:27:12</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 08:30 - 18:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email/>
+<ows_Municipio>Orotava (La)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Los Realejos</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.3806049, -16.585461200000054)</ows_Georeferencia>
+<ows_CodigoPostal>38410</ows_CodigoPostal>
+<ows_Direccion>Plaza de la Unión, s/n</ows_Direccion>
+<ows_Telefono>922 34 61 81</ows_Telefono>
+<ows_Fax>922 34 66 03</ows_Fax>
+<ows_Web>http://www.losrealejos.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-02-13 13:04:47</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 09:30 - 13:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info@losrealejos.travel</ows_Email>
+<ows_Municipio>Realejos (Los)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arona - Playa de las Américas</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0596063, -16.733153799999968)</ows_Georeferencia>
+<ows_CodigoPostal>38660</ows_CodigoPostal>
+<ows_Direccion>Plza. del City Center. Avda. Rafael Puig, 19</ows_Direccion>
+<ows_Telefono>922 79 76 68</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.arona.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-12-14 13:02:09</ows_FechaActualizacion>
+<ows_Horarios>Lunes a Sábados 8:30-16:00 horas.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info-americas@arona.travel</ows_Email>
+<ows_Municipio>Arona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Adeje - Plaza del Duque</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0933361, -16.741363699999965)</ows_Georeferencia>
+<ows_CodigoPostal>38660</ows_CodigoPostal>
+<ows_Direccion>C.C. Plaza del Duque</ows_Direccion>
+<ows_Telefono>922 71 63 77</ows_Telefono>
+<ows_Fax>922 71 43 97</ows_Fax>
+<ows_Web>http://www.costa-adeje.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2013-08-05 14:44:19</ows_FechaActualizacion>
+<ows_Horarios>
+De Octubre a Junio Lun-Vie. : 10:00 - 17:00 y de julio a septiembre de 10.00 a 16.00
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>0</ows_Activo>
+<ows_Email>turismo@adeje.es</ows_Email>
+<ows_Municipio>Adeje</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Situada en el C.C. Plaza del Duque en c/ Londres s/n 30670 Adeje
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Puerto de la Cruz (C.I.T)</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.415654213815642, -16.55336022377014)</ows_Georeferencia>
+<ows_CodigoPostal>38400</ows_CodigoPostal>
+<ows_Direccion>C/ Puerto Viejo, 13</ows_Direccion>
+<ows_Telefono>922 37 02 43</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.citpuerto.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 12:11:10</ows_FechaActualizacion>
+<ows_Horarios>De Lun. a Vie. : 09:00-13:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info@citpuerto.com</ows_Email>
+<ows_Municipio>Puerto de la Cruz (El)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>La Laguna - Casa Alvarado Bracamonte</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.4874009, -16.315906100000007)</ows_Georeferencia>
+<ows_CodigoPostal>38201</ows_CodigoPostal>
+<ows_Direccion>
+C/ La Carrera, 7, Bajo. Casa Alvarado Bracamonte (Capitanes Generales)
+</ows_Direccion>
+<ows_Telefono>922 63 11 94</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.aytolalaguna.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-06-20 16:07:02</ows_FechaActualizacion>
+<ows_Horarios>Lun.-Dom. : 09:00 - 17:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo.laguna.@cabtfe.es</ows_Email>
+<ows_Municipio>San Cristóbal de la Laguna</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>La Laguna - Aeropuerto Tfe. Norte Los Rodeos</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.482573524849567, -16.342849731445312)</ows_Georeferencia>
+<ows_CodigoPostal>38297</ows_CodigoPostal>
+<ows_Direccion>Aeropuerto Tenerife Norte - Los Rodeos</ows_Direccion>
+<ows_Telefono>922 82 50 46</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.aytolalaguna.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-21 10:27:19</ows_FechaActualizacion>
+<ows_Horarios>Lun.-Dom. : 09:00 - 17:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo.laguna@cabtfe.es</ows_Email>
+<ows_Municipio>San Cristóbal de la Laguna</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>San Miguel de Abona</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.03933428449891, -16.612915992736816)</ows_Georeferencia>
+<ows_CodigoPostal>38620</ows_CodigoPostal>
+<ows_Direccion>Avda. Galván Bello, s/n</ows_Direccion>
+<ows_Telefono>922 73 86 64</ows_Telefono>
+<ows_Fax>922 72 75 01</ows_Fax>
+<ows_Web>http://www.costasanmiguel.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-27 14:31:35</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 08:30 - 14:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>costasanmiguel@sanmigueldeabona.org</ows_Email>
+<ows_Municipio>San Miguel de Abona</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Entrada de la urbanización Gof del Sur, a mano derecha, pasando la fuente.
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santa Cruz (Cabildo)</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.467172818038, -16.24768763780594)</ows_Georeferencia>
+<ows_CodigoPostal>38003</ows_CodigoPostal>
+<ows_Direccion>Plaza de España, s/n</ows_Direccion>
+<ows_Telefono>922 28 12 87</ows_Telefono>
+<ows_Fax>922 28 49 65</ows_Fax>
+<ows_Web>http://www.todotenerife.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 12:00:17</ows_FechaActualizacion>
+<ows_Horarios>
+De Lun. a Vie.: 09.00-18.00. Sáb., Dom. y día festivo: 09.30-13.30
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>huete@tenerife.es</ows_Email>
+<ows_Municipio>Santa Cruz de Tenerife</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santa Cruz de Tenerife (C.I.T.)</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.4735719, -16.24688889999993)</ows_Georeferencia>
+<ows_CodigoPostal>38004</ows_CodigoPostal>
+<ows_Direccion>Avda. Francisco Laroche, s/n.</ows_Direccion>
+<ows_Telefono>637 365 429</ows_Telefono>
+<ows_Fax/>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-12-05 12:44:04</ows_FechaActualizacion>
+<ows_Horarios>
+Lun-Sab. : 09:30 - 13:30 (Pueden variar los días de apertura según los cruceros)
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>livingsc@livingsantacruz.es</ows_Email>
+<ows_Municipio>Santa Cruz de Tenerife</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santa Cruz de Tenerife - Calle Castillo</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.4660559, -16.24919729999999)</ows_Georeferencia>
+<ows_CodigoPostal/>
+<ows_Direccion>C/ Castillo, 1. (C/Castillo con C/Cruz Verde)</ows_Direccion>
+<ows_Telefono>607 830 068</ows_Telefono>
+<ows_Fax>922 28 95 36</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-05-26 12:05:06</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 09:30 - 16:00. Sab-Dom.: 09:30-13:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>cityexpertcastillo@gmail.com</ows_Email>
+<ows_Municipio>Santa Cruz de Tenerife</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santiago del Teide - Playa La Arena</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.233615271852027, -16.84127926826477)</ows_Georeferencia>
+<ows_CodigoPostal>38683</ows_CodigoPostal>
+<ows_Direccion>
+Ctro. Com. Seguro de Sol, Avda. Marítima, Local 34. Playa la Arena
+</ows_Direccion>
+<ows_Telefono>922 86 03 48</ows_Telefono>
+<ows_Fax>922 86 03 48</ows_Fax>
+<ows_Web>http://www.santiagodelteide.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-21 08:25:40</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 7:30 - 15:00h</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@santiagodelteide.es</ows_Email>
+<ows_Municipio>Santiago del Teide</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Aeropuerto Tenerife Norte Los Rodeos</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.486802589139625, -16.34782934153918)</ows_Georeferencia>
+<ows_CodigoPostal>38297</ows_CodigoPostal>
+<ows_Direccion>
+Zona de Llegadas (recogida de equipajes) en Aeropuerto Tenerife Norte.
+</ows_Direccion>
+<ows_Telefono>922 63 51 92</ows_Telefono>
+<ows_Fax>922 25 54 33</ows_Fax>
+<ows_Web>http://www.webtenerife.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-21 13:22:37</ows_FechaActualizacion>
+<ows_Horarios>Lun-Dom. : 09:00 - 21:00 h.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info@webtenerife.com</ows_Email>
+<ows_Municipio>San Cristóbal de la Laguna</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Desde Santa Cruz y zona norte por la autopista TF-5. Desde el sur por la TF-1, la conexión TF-2 y posteriormente la TF-5.
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+From Santa Cruz and the north through the TF-5. From the south through TF-1, junction TF-2 and finally TF-5.
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Sur (C.I.T)</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0726101, -16.731365900000014)</ows_Georeferencia>
+<ows_CodigoPostal>38660</ows_CodigoPostal>
+<ows_Direccion>Avda. Rafael Puig, 17</ows_Direccion>
+<ows_Telefono>922 79 33 12</ows_Telefono>
+<ows_Fax>922 79 33 90</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-03-29 15:02:12</ows_FechaActualizacion>
+<ows_Horarios>De Lun. a Vie. 09.00 - 13.00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info@citsur.com</ows_Email>
+<ows_Municipio>Adeje</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Granadilla - El Médano</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.043950586126744, -16.538506150245667)</ows_Georeferencia>
+<ows_CodigoPostal>38612</ows_CodigoPostal>
+<ows_Direccion>Plaza de los Príncipes de España, s/n</ows_Direccion>
+<ows_Telefono>922 17 60 02</ows_Telefono>
+<ows_Fax>922 17 60 02</ows_Fax>
+<ows_Web>http://www.granadilladeaona.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-10-06 11:09:33</ows_FechaActualizacion>
+<ows_Horarios>Lun.-Vie.: 09:00 - 15:00 y Sáb.: 09:00 - 13:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@granadilladeabona.org</ows_Email>
+<ows_Municipio>Granadilla de Abona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arona - Playa de Las Vistas</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.050445, -16.717322700000068)</ows_Georeferencia>
+<ows_CodigoPostal>38650</ows_CodigoPostal>
+<ows_Direccion>P.º Marítimo Playa de Las Vistas. Los Cristianos</ows_Direccion>
+<ows_Telefono>922 78 70 11</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.arona.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-07-14 09:12:18</ows_FechaActualizacion>
+<ows_Horarios>
+Lunes a Viernes 8:30-18:00 horas / Sábado y Domingo: 8:30-16:00 horas
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info-vistas@arona.travel</ows_Email>
+<ows_Municipio>Arona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Aeropuerto Tenerife Sur Reina Sofía</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0464178, -16.577046300000006)</ows_Georeferencia>
+<ows_CodigoPostal>38610</ows_CodigoPostal>
+<ows_Direccion>Aeropuerto Tenerife Sur</ows_Direccion>
+<ows_Telefono>922 39 20 37</ows_Telefono>
+<ows_Fax>922 39 20 37</ows_Fax>
+<ows_Web>http://www.webtenerife.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 11:54:54</ows_FechaActualizacion>
+<ows_Horarios>Lun. a Dom. 09.00-21.00.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>aeropuertosur@webtenerife.com</ows_Email>
+<ows_Municipio>Granadilla de Abona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arona - Playa de Las Galletas</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0064055, -16.655876499999976)</ows_Georeferencia>
+<ows_CodigoPostal>38631</ows_CodigoPostal>
+<ows_Direccion>
+P.º Marítimo Dionisio Glez. Delgado, 1. Las Galletas
+</ows_Direccion>
+<ows_Telefono>922 73 01 33</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.arona.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-05-04 09:12:35</ows_FechaActualizacion>
+<ows_Horarios>Lunes a Viernes 8:00-15:30 horas.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info-galletas@arona.travel</ows_Email>
+<ows_Municipio>Arona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Puerto de la Cruz</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.418084010213544, -16.550034284591675)</ows_Georeferencia>
+<ows_CodigoPostal>38400</ows_CodigoPostal>
+<ows_Direccion>Casa de la Aduana - C/ Las Lonjas, s/n</ows_Direccion>
+<ows_Telefono>922 38 60 00</ows_Telefono>
+<ows_Fax>922 38 47 69</ows_Fax>
+<ows_Web>http://www.todotenerife.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2011-11-16 12:16:43</ows_FechaActualizacion>
+<ows_Horarios>
+De Lun. a Vie.: 09:00-20:00; Sáb. y Dom.: 09:00-17:00
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>manuelp@tenerife.es</ows_Email>
+<ows_Municipio>Puerto de la Cruz (El)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Buenavista del Norte</ows_LinkTitle>
+<ows_Zona>Isla Baja</ows_Zona>
+<ows_Georeferencia>(28.371797426644615, -16.85162991285324)</ows_Georeferencia>
+<ows_CodigoPostal>38480</ows_CodigoPostal>
+<ows_Direccion>Plza. de Los Remedios, s/n - Casa Matula</ows_Direccion>
+<ows_Telefono>922 12 80 80</ows_Telefono>
+<ows_Fax>922 12 80 93</ows_Fax>
+<ows_Web>http://www.buenavistadelnorte.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2011-11-16 11:43:24</ows_FechaActualizacion>
+<ows_Horarios>
+De octubre a marzo: lunes a viernes de 09.00 a 15.00 horas - sábados de 09.00 a 13.00 horas. De abril a septiembre: lunes a viernes de 09.00 a 16.00 horas - sábados (cerrado)
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@buenavistadelnorte.com</ows_Email>
+<ows_Municipio>Buenavista del Norte</ows_Municipio>
+<ows_ComoLlegarEspanol>
+En guagua: Desde Santa Cruz (por el norte): Línea 107 Santa Cruz - Buenavista Línea 363 Puerto de La Cruz - Buenavista Desde Santa Cruz (por el sur): Línea 110 Santa Cruz - Playa de Las Américas Línea 460 Icod de Los Vinos - Playa de Las Américas Línea 355 Valle de Santiago - Buenavista En otros transportes: Carretera TF-436 Santiago del Teide -Buenavista del Norte Autopista Norte TF-5 Carretera TF-42 Puerto de la Cruz - Buenavista del Norte A la llegada a la zona centro de Buenavista del Norte, tomar la C/. La Alhóndiga hasta llegar a la Plaza de Los Remedios. La OIT se encuentra en una de las esquinas de la plaza, a mano izquierda.
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman>
+Mit dem Bus: Von Santa Cruz (Norden): Line 107 Santa Cruz - Buenavista Line 363 Puerto de La Cruz - Buenavista Von Santa Cruz (Süden): Line 110 Santa Cruz - Playa de Las Américas Line 460 Icod de Los Vinos - Playa de Las Américas Line 355 Valle de Santiago - Buenavista Andere Transportwege: Straße TF-436 Santiago del Teide-Buenavista del Norte Autobahn TF-5 TF-42 Puerto de la Cruz - Buenavista del Norte Bei der Ankunft im Zentrum von Buenavista del Norte, nehmen Sie die Alhóndiga Strasse bis zur Plaza de Los Remedios. Die OIT ist in einer Ecke des Platzes auf der linken Seite.
+</ows_ComoLlegarAleman>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Centro de Visitantes Parque Rural de Teno</ows_LinkTitle>
+<ows_Zona>Isla Baja</ows_Zona>
+<ows_Georeferencia>(28.345941, -16.8460149)</ows_Georeferencia>
+<ows_CodigoPostal>38480</ows_CodigoPostal>
+<ows_Direccion>Finca Los Pedregales, s/n-El Palmar</ows_Direccion>
+<ows_Telefono>922 44 79 70</ows_Telefono>
+<ows_Fax>922 12 80 43</ows_Fax>
+<ows_Web>
+http://www.tenerife.es/wps/portal/tenerifees/medioambiente/espaciosnaturales/categoriasproteccion/parquesrurales/ParqueRuralTeno
+</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-03-30 15:35:58</ows_FechaActualizacion>
+<ows_Horarios>De lunes a viernes 08.00-15.00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>tenoparque@tenerife.es</ows_Email>
+<ows_Municipio>Buenavista del Norte</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Tacoronte</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.476990674415823, -16.41533374786377)</ows_Georeferencia>
+<ows_CodigoPostal>38350</ows_CodigoPostal>
+<ows_Direccion>Ctra. Tacoronte-Tejina, s/n</ows_Direccion>
+<ows_Telefono>922 57 00 15</ows_Telefono>
+<ows_Fax>922 57 00 15</ows_Fax>
+<ows_Web>http://www.tacoronte.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-08-14 12:20:38</ows_FechaActualizacion>
+<ows_Horarios>De Lunes a Viernes 9:00 a 13:00 horas</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@aytotacoronte.org</ows_Email>
+<ows_Municipio>Tacoronte</ows_Municipio>
+<ows_ComoLlegarEspanol>Lineas Titsa 101, 051, 012, 021,023.</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>Bus Routen, 101,051, 012,023,021</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman>Buslinien. 101,051, 012,023,021</ows_ComoLlegarAleman>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Adeje - Playa de Troya</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.067213656409855, -16.73244473990053)</ows_Georeferencia>
+<ows_CodigoPostal>38660</ows_CodigoPostal>
+<ows_Direccion>Avda. Rafael Puig Lluvina, nº1 - Costa Adeje</ows_Direccion>
+<ows_Telefono>922 75 06 33</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.costa-adeje.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-15 16:50:15</ows_FechaActualizacion>
+<ows_Horarios>
+Lunes-Domingo 10:00h a 17:00h. Julio y Agosto una hora menos.
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@adeje.es</ows_Email>
+<ows_Municipio>Adeje</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Si ha llegado al aeropuerto de Los Rodeos, que se encuentra ubicado en la parte noreste de Tenerife, cerca de la ciudad de La Laguna (Patrimonio Histórico de la Humanidad) debe usted saber qué en coche y/o taxi tardará una hora en llegar a Costa Adeje. Si elige el transporte público, tardará aproximadamente dos horas en llegar. Si se encontrase en el aeropuerto Reina Sofía, ubicado en la zona sur de Tenerife, está a tan sólo 20 minutos en coche y/o taxi de Costa Adeje. Si tomase la guagua (transporte público) tardará unos 40 minutos aproximadamente. La Oficina de Turismo de Troya se encuentra en la calle Rafael Puig de Lluvina, nº1, en el término municipal de Adeje y directamente al comienzo de la conocida Playa de Troya.
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+If you arrive at the airport of Los Rodeos which is located in the northeast side of Tenerife, near by the Unesco's World Heritage City of La Laguna, you only are one hour by car or taxi from Costa Adeje away. If you choose the local bus service, it will take you around two hours. If you are at the airport Reina Sofia which is located in the South of Tenerife you are only 20 minutes away by car or taxi from Costa Adeje. With the bus it will take you around 40 minutes. The Tourist Information Office of Troya is located at the street calle Rafael Puig de Lluvina, nº1, in Adeje, at the famous beach Playa de Troya.
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman>
+Von dem Flughafen Los Rodeos, im Norden Teneriffa´s, brauchen Sie mit Auto oder Taxi ungefähr eine Stunde bis Sie in Costa Adeje ankommen. Mit dem öffentlichen Bus sind Sie ungefähr zwei Stunden unterwegs Vom Südflughafen, Reina Sofía, sind Sie mit Auto oder Taxi, 20 Minuten bis Costa Adeje unterwegs. Mit dem Bus, wären 40 Minuten nötig. Das Fremdenverkehrsbüro von Troya befindet sich in calle Rafael Puig de Lluvina, nº1, Adeje. Bei den bekannten Strand, Playa de Troya.
+</ows_ComoLlegarAleman>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Candelaria - Caletillas (C.I.T)</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.37522177344538, -16.36263370513916)</ows_Georeferencia>
+<ows_CodigoPostal>38520</ows_CodigoPostal>
+<ows_Direccion>Avda. Maritíma, 176 d Plaza del C.I.T.</ows_Direccion>
+<ows_Telefono>922 50 04 15</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.citcandelaria.com</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-31 12:45:34</ows_FechaActualizacion>
+<ows_Horarios>De lunes a viernes: 10 a 14 horas</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info@citcandelaria.com</ows_Email>
+<ows_Municipio>Candelaria</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arona - Los Cristianos</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.050445, -16.717322700000068)</ows_Georeferencia>
+<ows_CodigoPostal>38650</ows_CodigoPostal>
+<ows_Direccion>
+Avda. Juan Carlos I. Estación de Guaguas Los Cristianos
+</ows_Direccion>
+<ows_Telefono>922 75 71 30</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.arona.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-07-14 08:48:52</ows_FechaActualizacion>
+<ows_Horarios>Lunes a Viernes 8:30-16:00 horas.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info-cristianos@arona.travel</ows_Email>
+<ows_Municipio>Arona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Icod de los Vinos (C.I.T)</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.366429792118662, -16.714221958536655)</ows_Georeferencia>
+<ows_CodigoPostal>38430</ows_CodigoPostal>
+<ows_Direccion>C/ San Sebastián, 6</ows_Direccion>
+<ows_Telefono>922 81 21 23</ows_Telefono>
+<ows_Fax>922 81 21 23</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-26 12:09:10</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 09:30 - 13:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>citicod@hotmail.com</ows_Email>
+<ows_Municipio>Icod de los Vinos</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>El Médano</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.0456305, -16.538593799999944)</ows_Georeferencia>
+<ows_CodigoPostal>38612</ows_CodigoPostal>
+<ows_Direccion>Plaza Principes de España s/n - El Médano</ows_Direccion>
+<ows_Telefono>922 17 60 02</ows_Telefono>
+<ows_Fax>922 17 60 02</ows_Fax>
+<ows_Web>http://www.granadilladeaona.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-04-10 17:05:37</ows_FechaActualizacion>
+<ows_Horarios>
+lunes a viernes de 9.00h a 15.00h sábados 09.00 a 13.00h
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@granadilladeabona.org</ows_Email>
+<ows_Municipio>Granadilla de Abona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Nordeste Punta del Hidalgo (C.I.T)</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.571260653490352, -16.31791591644287)</ows_Georeferencia>
+<ows_CodigoPostal>38240</ows_CodigoPostal>
+<ows_Direccion>Plaza Sebastián Ramos, s/n</ows_Direccion>
+<ows_Telefono>922 15 78 32</ows_Telefono>
+<ows_Fax/>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-08-02 14:52:47</ows_FechaActualizacion>
+<ows_Horarios>9:00 - 15:00 horas</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>citnordeste@gmail.com</ows_Email>
+<ows_Municipio>San Cristóbal de la Laguna</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Arona - Patronato Municipal de Turismo</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.1006319, -16.68012939999994)</ows_Georeferencia>
+<ows_CodigoPostal>38640</ows_CodigoPostal>
+<ows_Direccion>Calle El Calvario, 5. Arona Casco</ows_Direccion>
+<ows_Telefono>922 72 51 80</ows_Telefono>
+<ows_Fax>922 72 51 86</ows_Fax>
+<ows_Web>http://www.arona.travel</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2012-08-02 15:42:42</ows_FechaActualizacion>
+<ows_Horarios>Lunes a Viernes de 8:00 a 15:00 horas</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@arona.travel</ows_Email>
+<ows_Municipio>Arona</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Guía de Isora - Playa de San Juan</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.1820934, -16.81385260000002)</ows_Georeferencia>
+<ows_CodigoPostal>38687</ows_CodigoPostal>
+<ows_Direccion>Av. Juan Carlos I s/n</ows_Direccion>
+<ows_Telefono>922 13 89 87</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.guiadeisora.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-04-22 12:00:56</ows_FechaActualizacion>
+<ows_Horarios>10:00 - 16.00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info.playasanjuan@guiadeisora.org</ows_Email>
+<ows_Municipio>Guía de Isora</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Si ha llegado al aeropuerto de Tenerife Norte, Los Rodeos, situado en el Municipio de San Cristóbal de La Laguna (Patrimonio Histórico de la Humanidad) deberá tomar la salida a la Autopista del Sur TF-1 en dirección a Los Cristianos. Al término de la autopista deberá tomar la TF-47 hasta el núcleo poblacional de Playa San Juan. Si se encontrase en el Aeropuerto de Tenerife Sur Reina Sofía deberá tomar la TF-1 hasta el término de ésta y luego la TF-47 hasta el núcleo poblacional de Playa San Juan. La oficina de Turismo de Playa San Juan, se encuentra al principio del paseo de la playa donde termina la Avda del Emigrante y comienza la Avda Juan Carlos I, frente al puerto Tiempo estimado: Desde Tenerife Norte: coche/taxi 1,5h; Guagua 2,5h. Desde Tenerife Sur: coche/taxi 45min; Guagua 1,5h
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+If you are at Tenerife North Airport that is located in San Cristobal de La Laguna, you should take the highway TF-1 to Los Cristianos. At the end of this one you should take the TF-47 to village of Playa San Juan. If you are at Tenerife South Airport Reina Sofía you should take the TF-1 until the end of this one, and then take the TF-47 to Playa San Juan. The tourist information office of Alcalá is located at at the beginning of the beach promenade where Avda del Emigrante end and Avda Juan Carlos I Starts, front to the port. Expected time: From North Tenerife: by taxi/car 1,5h; Bus 2,5h From South Tenerife: by taxi/car 45min; Bus 1,5h
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Guía de Isora - Alcalá</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.2027105, -16.829325100000005)</ows_Georeferencia>
+<ows_CodigoPostal>38687</ows_CodigoPostal>
+<ows_Direccion>Paseo la Jaquita s/n</ows_Direccion>
+<ows_Telefono>922 86 51 51</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.guiadeisora.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-24 12:51:46</ows_FechaActualizacion>
+<ows_Horarios>9:00 - 15:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info.alcala@guiadeisora.org</ows_Email>
+<ows_Municipio>Guía de Isora</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Si ha llegado al aeropuerto de Tenerife Norte, Los Rodeos, situado en el Municipio de San Cristóbal de La Laguna (Patrimonio Histórico de la Humanidad) deberá tomar la salida a la Autopista del Sur TF-1 en dirección a Los Cristianos. Al término de la autopista deberá tomar la TF-47 hasta el núcleo poblacional de Alcalá. Si se encontrase en el Aeropuerto de Tenerife Sur Reina Sofía deberá tomar la TF-1 hasta el término de ésta y luego la TF-47 hasta el núcleo poblacional de Alcalá. La oficina de Turismo de Alcalá, se encuentra en el Paseo de la Jaquita s/n, al final de la calle Carero a la derecha sobre el paseo (justo debajo del Hotel Palacio de Isora) Tiempo estimado: Desde Tenerife Norte: coche/taxi 1,5h; Guagua 2,5h. Desde Tenerife Sur: coche/taxi 45min; Guagua 1,5h
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+If you are at Tenerife North Airport that is located in San Cristobal de La Laguna, you should take the highway TF-1 to Los Cristianos. At the end of this one you should take the TF-47 to village of Alcalá. If you are at Tenerife South Airport Reina Sofía you should take the TF-1 until the end of this one, and then take the TF-47 to village of Alcalá. The tourist information office of Alcalá is located at Paseo de La Jaquita, at the right side of the end of Carero road, on the promenade. (Near to Hotel Palacio de Isora) Expected time: From North Tenerife: by taxi/car 1,5h; Bus 2,5h From South Tenerife: by taxi/car 45min; Bus 1,5h
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Guía de Isora</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.2097804, -16.780933900000036)</ows_Georeferencia>
+<ows_CodigoPostal>38680</ows_CodigoPostal>
+<ows_Direccion>Av. Isora s/n</ows_Direccion>
+<ows_Telefono>922 85 12 22</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.guiadeisora.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-01-24 12:50:45</ows_FechaActualizacion>
+<ows_Horarios>8:00 - 14:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>info.guia@guiadeisora.org</ows_Email>
+<ows_Municipio>Guía de Isora</ows_Municipio>
+<ows_ComoLlegarEspanol>
+Si ha llegado al aeropuerto de Tenerife Norte, Los Rodeos, situado en el Municipio de San Cristóbal de La Laguna (Patrimonio Histórico de la Humanidad) deberá tomar la salida a la Autopista del Sur TF-1 en dirección a Los Cristianos. Al término de la autopista deberá tomar la TF-82 hasta el Municipio de Guía de Isora. Si se encontrase en el Aeropuerto de Tenerife Sur Reina Sofía deberá tomar la TF-1 hasta el término de ésta y luego la TF-82 hasta el Municipio de Guía de Isora. La Oficina de Turismo de Guía de Isora se encuentra en la Avenida de Isora, s/n, en el término municipal de Guía de Isora, justo delante del Centro Cultural. Tiempo estimado: Desde Tenerife Norte: coche/taxi 1,5h; Guagua 2,5h. Desde Tenerife Sur: coche/taxi 45min; Guagua 1,5h
+</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles>
+If you are at Tenerife North Airport that is located in San Cristobal de La Laguna, you should take the highway TF-1 to Los Cristianos. At the end of this one you should take the TF-82 to township of Guía de Isora.. If you are at Tenerife South Airport Reina Sofía you should take the TF-1 until the end of this one, and then take the TF-82 to township of Guía de Isora. The tourist information office of Guía de Isora is located at Avenida de Isora, in front to the Cultural Center Expected time: From North Tenerife: by taxi/car 1,5h; Bus 2,5h From South Tenerife: by taxi/car 45min; Bus 1,5h
+</ows_ComoLlegarIngles>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Centro de Visitantes Los Silos</ows_LinkTitle>
+<ows_Zona>Isla Baja</ows_Zona>
+<ows_Georeferencia>(28.365392114617155, -16.81771078703605)</ows_Georeferencia>
+<ows_CodigoPostal>38470</ows_CodigoPostal>
+<ows_Direccion>Plaza Ntra Sra de La Luz nº9</ows_Direccion>
+<ows_Telefono>922 84 10 86</ows_Telefono>
+<ows_Fax>922 84 01 17</ows_Fax>
+<ows_Web>http://www.lossilos.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-04-30 09:19:31</ows_FechaActualizacion>
+<ows_Horarios>De lunes a sábado de 8:45 a 15 horas.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>cipa@lossilos.es turismo@lossilos.es</ows_Email>
+<ows_Municipio>Silos (Los)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santiago del Teide - Santiago del Teide</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.2961444, -16.814611300000024)</ows_Georeferencia>
+<ows_CodigoPostal>38690</ows_CodigoPostal>
+<ows_Direccion>Av la Iglesia, 64 Santiago del Teide</ows_Direccion>
+<ows_Telefono>922 83 92 20</ows_Telefono>
+<ows_Fax>922 83 92 20</ows_Fax>
+<ows_Web>http://www.santiagodelteide.org</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-04-11 09:00:44</ows_FechaActualizacion>
+<ows_Horarios>martes a sábado 8:00-15:30h</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>santiago.turismo@santiagodelteide.es</ows_Email>
+<ows_Municipio>Santiago del Teide</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Tegueste</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.52394104262917, -16.335827372968197)</ows_Georeferencia>
+<ows_CodigoPostal>38230</ows_CodigoPostal>
+<ows_Direccion>Plaza San Marcos, 20</ows_Direccion>
+<ows_Telefono>922 31 61 02</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.tegueste.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-01-07 12:57:27</ows_FechaActualizacion>
+<ows_Horarios>
+martes a sábado 7:30-15.00 invierno / 08.00-15.30 verano / Domingos de 08.00-13.00 / Lunes cerrado
+</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@tegueste.org</ows_Email>
+<ows_Municipio>Tegueste</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>El Tanque</ows_LinkTitle>
+<ows_Zona>Isla Baja</ows_Zona>
+<ows_Georeferencia>(28.356326308828926, -16.777705550193787)</ows_Georeferencia>
+<ows_CodigoPostal>38435</ows_CodigoPostal>
+<ows_Direccion>Avda. Príncipes de España Nº22</ows_Direccion>
+<ows_Telefono>922136715 Ext.1012</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.eltanque.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-07-04 08:02:01</ows_FechaActualizacion>
+<ows_Horarios>Miércoles y viernes 8:00 a 14:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>Oficinadeturismoeltanque@gmail.com</ows_Email>
+<ows_Municipio>Tanque (El)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Centro de iniciativas y turismo de Güímar</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.3097545, -16.416087800000014)</ows_Georeferencia>
+<ows_CodigoPostal>38500</ows_CodigoPostal>
+<ows_Direccion>Avda. Obispo Pérez Cáceres nº18 Güímar Tenerife</ows_Direccion>
+<ows_Telefono>922511590</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.citguimar.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-05-08 19:08:34</ows_FechaActualizacion>
+<ows_Horarios>De Lun. a Vie. 8.30-14.30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>citguimar@hotmail.com</ows_Email>
+<ows_Municipio>Güímar</ows_Municipio>
+<ows_ComoLlegarEspanol>Edificio Fonda Medina</ows_ComoLlegarEspanol>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santa Cruz-Calle Afilarmónica Ni Fú Ni Fá</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.4636296, -16.251846699999987)</ows_Georeferencia>
+<ows_CodigoPostal>38003</ows_CodigoPostal>
+<ows_Direccion>C/ Afilarmónica Ni Fú-Ni Fá, 32</ows_Direccion>
+<ows_Telefono>922 29 97 49</ows_Telefono>
+<ows_Fax/>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-06-10 19:23:23</ows_FechaActualizacion>
+<ows_Horarios>Lunes a viernes: de 9:30-13:00</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>tenerife@cityexpert.es</ows_Email>
+<ows_Municipio>Santa Cruz de Tenerife</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Adeje - Adeje Centro</ows_LinkTitle>
+<ows_Zona>Sur</ows_Zona>
+<ows_Georeferencia>(28.123325564666846, -16.72458842396736)</ows_Georeferencia>
+<ows_CodigoPostal>38670</ows_CodigoPostal>
+<ows_Direccion>Calle Grande, 2</ows_Direccion>
+<ows_Telefono>922 75 62 54</ows_Telefono>
+<ows_Fax/>
+<ows_Web>http://www.costa-adeje.es</ows_Web>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-06-01 15:33:28</ows_FechaActualizacion>
+<ows_Horarios>De Lun. a Vie. 09.30-17.00h</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>turismo@adeje.es</ows_Email>
+<ows_Municipio>Adeje</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Centro de Visitantes Telesforo Bravo</ows_LinkTitle>
+<ows_Zona>Norte</ows_Zona>
+<ows_Georeferencia>(28.3922321, -16.527683499999966)</ows_Georeferencia>
+<ows_CodigoPostal>38300</ows_CodigoPostal>
+<ows_Direccion>C/ Doctor Sixto Perera González, nº 25</ows_Direccion>
+<ows_Telefono>922 92 23 71</ows_Telefono>
+<ows_Fax>922 24 47 88</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2014-12-02 09:56:45</ows_FechaActualizacion>
+<ows_Horarios>Ma-Do: 09.00-14.00 Y 15.30-18.00 h.</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>teide.maot@gobiernodecanarias.org</ows_Email>
+<ows_Municipio>Orotava (La)</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+<oficina>
+<ows_LinkTitle>Santa Cruz - Intercambiador</ows_LinkTitle>
+<ows_Zona>Metropolitana</ows_Zona>
+<ows_Georeferencia>(28.459221371653598, -16.253522615879774)</ows_Georeferencia>
+<ows_CodigoPostal>38005</ows_CodigoPostal>
+<ows_Direccion>
+Intercambiador TITSA C/ Fomento, s/n (zona guaguas interurbanas)
+</ows_Direccion>
+<ows_Telefono>607 830 104</ows_Telefono>
+<ows_Fax>922 28 95 36</ows_Fax>
+<ows_Web/>
+<ows_Accesibilidad/>
+<ows_FechaActualizacion>2015-05-24 09:22:26</ows_FechaActualizacion>
+<ows_Horarios>Lun-Vie. : 09:30 - 16:00. Sab-Dom.: 09:30-13:30</ows_Horarios>
+<ows_Actividad>OITs</ows_Actividad>
+<ows_Activo>1</ows_Activo>
+<ows_Email>cityexpertinter@gmail.com</ows_Email>
+<ows_Municipio>Santa Cruz de Tenerife</ows_Municipio>
+<ows_ComoLlegarEspanol/>
+<ows_ComoLlegarIngles/>
+<ows_ComoLlegarAleman/>
+<ows_ComoLlegarFrances/>
+<ows_ComoLlegarItaliano/>
+<ows_HorariosIngles/>
+<ows_HorariosAleman/>
+<ows_HorariosFrances/>
+<ows_HorariosItaliano/>
+</oficina>
+</listado_oficinas>

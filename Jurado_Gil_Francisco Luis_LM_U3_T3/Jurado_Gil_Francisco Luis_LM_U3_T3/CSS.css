@@ -1,0 +1,405 @@
+#container {
+    margin: 0px auto;
+    width: 1101px;
+    overflow-y: auto;
+    border: 1px dashed black;
+    border-top: none;
+    border-bottom: none;
+}
+#titulo {
+    font-family: helvetica;
+    background-color: #D8FF10;
+    height: 190px;
+    width: 1100px;
+    margin: 0px auto;
+    border-top: 1px dashed black;
+}
+#tituloIzq {
+    position: relative;
+    background-color: #A8D6CC;
+    height: 180px;
+    width: 300px;
+    float: left;
+    border: 1px dashed black;
+    border-top: none;
+    border-left: none;
+}
+#tituloIzqTotal {
+    width: 220px;
+    position: absolute;
+    top: 42px;
+    right: 0;
+    border: 1px dashed black;
+    border-right: none;
+}
+#tituloIzqTotal h1, #tituloIzqTotal p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 5px;
+    text-align: center;
+}
+#tituloIzqArriba {
+    background-color: #E97FF5;
+    border-bottom: 1px dashed black;
+}
+#tituloIzqAbajo {
+    background-color: #E9A091;
+}
+#tituloCentro {
+    background-color: #B6FF2C;
+    position: relative;
+    float: left;
+    height: 120px;
+    width: 230px;
+    margin-left: 110px;
+    border: 1px dashed black;
+    border-top: none;
+}
+#tituloCentroTexto {
+    position: absolute;
+    width: 100px;
+    bottom: 0px;
+    left: 0px;
+}
+#tituloDer {
+    background-color: #7EFCCC;
+    position: relative;
+    height: 170px;
+    width: 400px;
+    float: right;
+    border: 1px dashed black;
+    border-top: none;
+    border-right: none;
+}
+#tituloDerTexto {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+#tituloDerTexto p{
+    font-size: 0.8em;
+}
+#contenido {
+    background-color: #4DE2D9;
+    overflow-y: auto;
+    border: 1px dashed black;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+#menu {
+    position: relative;
+    background-color: #7EFCBF;
+    width: 1080px;
+    height: 80px;
+    margin: 0px auto;
+    border: 1px dashed black;
+    border-top: none;
+}
+#menuArriba {
+    position: absolute;
+    background-color: #7EFCBF;
+    width: 1080px;
+    height: 53px;
+}
+#menuArribaContenedor {
+    height: 40px;
+    width: 718px;
+    margin-left: 10px;
+    margin-top: 11px;
+}
+#menuArriba1 {
+    float: left;
+    background-color: #E1D778;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+    left: 20px;
+    margin-left: 10px;
+}
+#menuArriba2 {
+    float: left;
+    background-color: #DD8474;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+}
+#menuArriba3 {
+    float: left;
+    background-color: #E0B4CB;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+}
+#menuArriba4 {
+    float: left;
+    background-color: #6DAEF2;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+}
+#menuArriba5 {
+    float: left;
+    background-color: #76FCB3;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+}
+#menuArriba6 {
+    float: left;
+    background-color: #A7FDF0;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+    border-right: none;
+}
+#menuArriba7 {
+    float: left;
+    background-color: #55E4F2;
+    width: 100px;
+    height: 40px;
+    border: 1px dashed black;
+}
+#menuAbajo {
+    position: absolute;
+    height: 27px;
+    width: 1080px;
+    bottom: 0px;
+    background-color: #9DF9F8;
+    border-top: 1px dashed black;
+}
+#menuAbajoContenedor {
+    height: 20px;
+    width: 603px;
+    border: 1px dashed black;
+    border-left: none;
+    border-top: none;
+}
+#menuAbajo1 {
+    float: left;
+    background-color: #A7FB5C;
+    height: 20px;
+    width: 150px;
+    border-right: 1px dashed black;
+}
+#menuAbajo2 {
+    float: left;
+    background-color: #EAFC35;
+    height: 20px;
+    width: 150px;
+    border-right: 1px dashed black;
+}
+#menuAbajo3 {
+    float: left;
+    background-color: #40FA4E;
+    height: 20px;
+    width: 150px;
+    border-right: 1px dashed black;
+}
+#menuAbajo4 {
+    float: left;
+    background-color: #E7FEAB;
+    height: 20px;
+    width: 150px;
+}
+#contenidoInt{
+    margin: 10px 10px 10px; 
+    border: 1px dashed black;
+    height: 435px;
+    background-color: #78a2ff;
+}
+#contenido1{
+    float:left;
+}
+#contenido1Titulo{
+    width: 480px;
+    height: 35px;
+    border: 1px dashed black;
+    margin-left: 10px;
+    margin-top:10px;
+    background-color: #f38d9b;
+}
+#contenido1Titulo p{
+    font-family: sans-serif;
+    font-size: large;
+    margin-top: 9px;
+}
+#contenido1Texto1{
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    border-bottom: 1px dashed black;
+    margin-left: 10px;
+    height: 125px;
+    width: 480px;
+    background-color: #cee187;
+}
+#contenido1Texto1 img{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#contenido1Texto1 p{
+    margin-left: 107px;
+    margin-top: -20px;
+    font-size: 0.8em;
+    font-family: sans-serif;
+}
+#contenido1Texto1 h4{
+    display: block;
+    margin-top: -97px;
+    margin-left: 106px;
+    font-family: sans-serif;
+}
+#contenido1Texto2{
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    border-bottom: 1px dashed black;
+    margin-left: 10px;
+    height: 125px;
+    width: 480px;
+    background-color: #cee187;
+}
+#contenido1Texto2 img{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#contenido1Texto2 p{
+    margin-left: 107px;
+    margin-top: -20px;
+    font-size: 0.8em;
+    font-family: sans-serif;
+}
+#contenido1Texto2 h4{
+    display: block;
+    margin-top: -97px;
+    margin-left: 106px;
+    font-family: sans-serif;
+}
+#contenido1Texto3{
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    border-bottom: 1px dashed black;
+    margin-left: 10px;
+    height: 125px;
+    width: 480px;
+    background-color: #f6e2af;
+}
+#contenido1Texto3 img{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#contenido1Texto3 p{
+    margin-left: 107px;
+    margin-top: -20px;
+    font-size: 0.8em;
+    font-family: sans-serif;
+}
+#contenido1Texto3 h4{
+    display: block;
+    margin-top: -97px;
+    margin-left: 106px;
+    font-family: sans-serif;
+}
+#contenido2{
+    display: inline-block;
+    width: 430px;
+    
+}
+#contenido2Titulo{
+    display: inline-block;
+    border:1px dashed black;
+    height: 35px;
+    width: 410px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #f2707a;
+}   
+#contenido2Titulo p{
+    font-family: sans-serif;
+    font-size: large;
+    margin-top: 9px;
+}
+#contenido2Texto1{
+    display: inline-block;
+    border-bottom: 1px dashed black;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    margin-left: 20px;
+    margin-right: -5px;
+    height: 370px;
+    width: 135px;
+    background-color: #8fc3fd;
+}
+#contenido2Texto1Titulo{
+    display: table;
+    font-family:sans-serif;
+    padding-top: 5px;
+    padding-left: 1px;
+    font-size: 15px;
+}
+#contenido2Texto1Texto{
+    font-family: sans-serif;
+    display: table;
+    font-size: 0.8em;
+}
+#contenido2Texto2{
+    display: inline-block;
+    border-bottom: 1px dashed black;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    margin-right: -5px;
+    height: 355px;
+    width: 135px;
+    margin-bottom: 15px;
+    background-color: #65eafd;
+}
+#contenido2Texto2Titulo{
+    display: table;
+    font-family:sans-serif;
+    padding-top: 5px;
+    padding-left: 1px;
+    font-size: 15px;
+}
+#contenido2Texto2Texto{
+    font-family: sans-serif;
+    display: table;
+    font-size: 0.8em;
+}
+#contenido2Texto3{
+    display: inline-block;
+    border-bottom: 1px dashed black;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    height: 355px;
+    width: 135px;
+    margin-bottom: 15px;
+    background-color: #dbc685;
+}
+#contenido2Texto3Titulo{
+    display: table;
+    font-family:sans-serif;
+    padding-top: 5px;
+    padding-left: 1px;
+    font-size: 15px;
+}
+#contenido2Texto3Texto{
+    font-family: sans-serif;
+    display: table;
+    font-size: 0.8em;
+}
+#pie {
+    background-color: #D8FF10;
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px dashed black;
+}
+#pie p {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 0.8em;
+}

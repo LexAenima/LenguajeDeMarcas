@@ -1,0 +1,35 @@
+/* Divs */
+div#primero {
+	font-family:helvetica; 
+	font-size:18px; 
+	color:#276cb8
+}
+div.normal {
+	font-family:helvetica; 
+	font-size:18px; 
+	color:#53565a
+}
+
+/* Links */
+a:link     {
+	color:#e73a00
+}
+a:visited  {
+	color:#e73a00
+}
+a:hover    {
+	color:#e73a00
+}
+a:active   {
+	color:#e73a00
+}
+
+/*Em*/
+span {
+	font-weight: bold;
+}
+em.especial {
+	background-color: #ffcca2; 
+	border: 1px solid #ffa700; 
+	font-style: normal;
+}

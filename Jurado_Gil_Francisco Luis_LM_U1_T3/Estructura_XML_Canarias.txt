@@ -1,0 +1,6 @@
+El archivo XML recoge todas las oficinas de turismo que hay en las Islas Canarias,
+además del nombre, la zona, las coordenadas geográficas, el código postal, la dirección, 
+el teléfono, el fax, la web, accesibilidad, la última fecha en la que se actualizó 
+la información, el horario, la actividad que se realiza, los activos, el email, el municipio,
+e indicaciones de cómo llegar en español, inglés, alemás, francés e italiano de cada una 
+de las oficinas. Todo esto está recogido en la etiqueta principal "listado_oficinas".

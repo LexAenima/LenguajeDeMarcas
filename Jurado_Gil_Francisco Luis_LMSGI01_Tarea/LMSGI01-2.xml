@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE marcadores>
+
+<marcadores>
+	<marcador>
+		<nombre>
+			Google
+		</nombre>
+		<URL>
+			http://www.google.es
+		</URL>
+	</marcador>
+	<marcador>
+		<nombre>
+			Twitter
+		</nombre>
+		<URL>
+			http://twitter.es
+		</URL>
+	</marcador>
+	<marcador>
+		<nombre>
+			Gmail
+		</nombre>
+		<URL>
+			http://mail.google.com
+		</URL>
+	</marcador>
+	<marcador>
+		<nombre>
+			Blogger
+		</nombre>
+		<URL>
+			http://www.blogger.com/home
+		</URL>
+	</marcador>
+	<marcador>
+		<nombre>
+			Youtube
+		</nombre>
+		<URL>
+			http://www.youtube.com
+		</URL>
+	</marcador>
+</marcadores>

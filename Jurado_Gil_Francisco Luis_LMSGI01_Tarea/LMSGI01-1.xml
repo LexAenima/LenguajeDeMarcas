@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE agenda>
+
+<agenda>
+	<persona>
+		<nombre>
+			Manolo González
+		</nombre>
+		<telefono>
+			612415156
+		</telefono>
+		<ID>
+			514
+		</ID>
+	</persona>
+	<persona>
+		<nombre>
+			Daniel Gómez
+		</nombre>
+		<telefono>
+			954812165
+		</telefono>
+		<ID>
+			875
+		</ID>
+	</persona>
+	<persona>
+		<nombre>
+			Manuel Cáceres
+		</nombre>
+		<telefono>
+			651231584
+		</telefono>
+		<ID>
+			816
+		</ID>
+	</persona>
+	<persona>
+		<nombre>
+			Patricia Blanco
+		</nombre>
+		<telefono>
+			654852315
+		</telefono>
+		<ID>
+			256
+		</ID>
+	</persona>
+	<persona>
+		<nombre>
+			David Rojo
+		</nombre>
+		<telefono>
+			611584124
+		</telefono>
+		<ID>
+			164
+		</ID>
+	</persona>
+</agenda>

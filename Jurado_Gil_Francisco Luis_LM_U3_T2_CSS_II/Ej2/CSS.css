@@ -1,0 +1,58 @@
+/* H */
+h1#titulo {
+	color:#008484
+}
+h2#subtitulo {
+	color:#0000FF
+}
+
+/* Texto */
+strong {
+	color:#FF0000
+}
+span.destacado {
+	color:#FFA500
+}
+span.especial {
+	color:#940084
+}
+caption {
+	color:#0000FF
+}
+div#adicional {
+	color:#948400
+}
+p {
+	margin-right:675px
+}
+span#especial {
+	color:#FF00FF
+}
+p a {
+	color:#FF0000
+}
+a em {
+	color:#0000FF
+}
+div#adicional a{
+	color:#008400
+}
+
+/* Tabla */
+table, tr, th, td {
+	border:1px solid black; 
+	border-collapse: collapse;
+	padding: 6px
+}
+th.especial {
+	color:#FFA500
+}
+td {
+	color:#008400
+}
+th {
+	color:#FF0000
+}
+td strong {
+	color:#FFA500
+}
